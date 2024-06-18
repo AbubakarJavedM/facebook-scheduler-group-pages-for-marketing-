@@ -1,0 +1,136 @@
+@font-face {
+    font-family: OpenSans-Regular;
+    src: url(../fonts/open-sans/OpenSans-Regular.ttf);
+}
+
+@font-face {
+    font-family: dancing-script;
+    src: url(../fonts/dancing-script/DancingScript-Bold.ttf);
+}
+
+@font-face {
+    font-family: Raleway-Regular;
+    src: url(../fonts/raleway/Raleway-Regular.ttf);
+}
+
+@font-face {
+    font-family: Raleway-Bold;
+    src: url(../fonts/raleway/Raleway-Bold.ttf);
+}
+@font-face {
+    font-family: Lato-Regular;
+    src: url(../fonts/lato/Lato-Regular.ttf);
+}
+@font-face {
+    font-family: Oswald-Bold;
+    src: url(../fonts/oswald/Oswald-Bold.ttf);
+}
+
+@font-face {
+    font-family: BB-BOLD;
+    src: url(../fonts/bebas_neue/BB-BOLD.otf);
+}
+html, body {
+    max-width: 100%;
+    overflow-x: hidden;
+    background-color:#e9ebee;
+}
+.container{
+    width:1200px;
+}
+body{margin-top:20px;}
+
+.profile {
+  width: 100%;
+  position: relative;
+  background: #e9ebee;
+  padding-bottom: 5px;
+  margin-bottom: 20px;
+}
+
+.profile .image {
+  display: block;
+  position: relative;
+  z-index: 1;
+  overflow: hidden;
+  text-align: center;
+  border: 5px solid #e9ebee;
+}
+
+.profile .user {
+  position: relative;
+  padding: 0px 5px 5px;
+}
+.apt{
+    width: 240px;
+    height: 46px;
+    margin-left: 40px !important;
+    border-radius: 0px;
+}
+.mt{
+    text-align:center;
+    font-size:25px;
+}
+.profile .user .avatar {
+  position: absolute;
+  left: 20px;
+  top: -85px;
+  z-index: 2;
+}
+
+.profile .user h2 {
+  font-size: 25px;
+  line-height: 20px;
+  font-weight: bold;
+  margin-left: 145px;
+  margin-top: 7px;
+  float: left;
+  color: black;
+}
+
+.profile .user .actions {
+  float: right;
+}
+
+.profile .user .actions .btn {
+  margin-bottom: 0px;
+}
+.pkr{
+
+}
+
+.profile .info {
+  float: left;
+  margin-left: 20px;
+}
+
+.img-profile{
+    height:120px;
+    width:120px;
+}
+
+.img-cover{
+    width:100%;
+    height:300px;
+}
+
+@media (max-width: 768px) {
+  .btn-responsive {
+    padding:2px 4px;
+    font-size:80%;
+    line-height: 1;
+    border-radius:3px;
+  }
+}
+
+@media (min-width: 769px) and (max-width: 992px) {
+  .btn-responsive {
+    padding:4px 9px;
+    font-size:90%;
+    line-height: 1.2;
+    width:auto;
+    height:auto;
+  }
+}
+/**88888888888888888888888888888888888888888888888888888*/
+

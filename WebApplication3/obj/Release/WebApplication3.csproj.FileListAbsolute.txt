@@ -1,0 +1,16 @@
+C:\Users\Abubakar javaid\Desktop\WebApplication3\WebApplication3\bin\WebApplication3.dll.config
+C:\Users\Abubakar javaid\Desktop\WebApplication3\WebApplication3\bin\WebApplication3.dll
+C:\Users\Abubakar javaid\Desktop\WebApplication3\WebApplication3\bin\WebApplication3.pdb
+C:\Users\Abubakar javaid\Desktop\WebApplication3\WebApplication3\bin\EntityFramework.dll
+C:\Users\Abubakar javaid\Desktop\WebApplication3\WebApplication3\bin\EntityFramework.SqlServer.dll
+C:\Users\Abubakar javaid\Desktop\WebApplication3\WebApplication3\bin\Facebook.dll
+C:\Users\Abubakar javaid\Desktop\WebApplication3\WebApplication3\bin\MySql.Data.dll
+C:\Users\Abubakar javaid\Desktop\WebApplication3\WebApplication3\bin\MySql.Data.Entity.EF5.dll
+C:\Users\Abubakar javaid\Desktop\WebApplication3\WebApplication3\bin\MySql.Data.Entity.EF6.dll
+C:\Users\Abubakar javaid\Desktop\WebApplication3\WebApplication3\bin\EntityFramework.xml
+C:\Users\Abubakar javaid\Desktop\WebApplication3\WebApplication3\bin\EntityFramework.SqlServer.xml
+C:\Users\Abubakar javaid\Desktop\WebApplication3\WebApplication3\bin\Facebook.xml
+C:\Users\Abubakar javaid\Desktop\WebApplication3\WebApplication3\bin\MySql.Data.Entity.EF5.xml
+C:\Users\Abubakar javaid\Desktop\WebApplication3\WebApplication3\obj\Release\WebApplication3.csprojResolveAssemblyReference.cache
+C:\Users\Abubakar javaid\Desktop\WebApplication3\WebApplication3\obj\Release\WebApplication3.dll
+C:\Users\Abubakar javaid\Desktop\WebApplication3\WebApplication3\obj\Release\WebApplication3.pdb
